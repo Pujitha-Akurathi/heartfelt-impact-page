@@ -22,6 +22,7 @@ const HeroSection = () => {
             <span className="block bg-gradient-to-r from-primary-light to-secondary-light bg-clip-text text-transparent">
               Changing Lives
             </span>
+            <br></br>
           </h1>
           
           <p className="text-xl md:text-2xl mb-8 text-white/90 leading-relaxed max-w-2xl mx-auto">
