@@ -3,26 +3,26 @@ import teamMember2 from '@/assets/team-member-2.jpg';
 import teamMember3 from '@/assets/team-member-3.jpg';
 
 const AboutSection = () => {
-  const teamMembers = [
-    {
-      name: "Sarah Rodriguez",
-      role: "Executive Director",
-      image: teamMember1,
-      description: "Leading our organization with 15+ years of nonprofit experience and a passion for community development."
-    },
-    {
-      name: "Michael Chen",
-      role: "Program Manager",
-      image: teamMember2,
-      description: "Overseeing our global initiatives and ensuring maximum impact across all our community programs."
-    },
-    {
-      name: "Aisha Patel",
-      role: "Community Coordinator",
-      image: teamMember3,
-      description: "Building strong relationships with local communities and coordinating volunteer engagement efforts."
-    }
-  ];
+ const teamMembers = [
+  {
+    name: "Anitha Reddy",
+    role: "Executive Director",
+    image: teamMember1,
+    description: "Brings over 15 years of leadership experience in community development and rural upliftment across South India."
+  },
+  {
+    name: "Karthik Rajan",
+    role: "Program Manager",
+    image: teamMember2,
+    description: "Leads mission-driven programs with a focus on education, women empowerment, and sustainable livelihoods."
+  },
+  {
+    name: "Deepika Narayanan",
+    role: "Community Coordinator",
+    image: teamMember3,
+    description: "Works closely with local volunteers to strengthen ties with tribal and rural communities, ensuring inclusive participation."
+  }
+];
 
   return (
     <section id="about" className="py-20 bg-gradient-to-b from-background to-muted">
