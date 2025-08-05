@@ -73,13 +73,14 @@ const Footer = () => {
   <p className="text-white/90 mb-4">
     Get updates on our latest initiatives and impact stories.
   </p>
-  <div className="flex flex-col sm:flex-row gap-2">
-    <input
-      type="email"
-      placeholder="Your email"
-      className="w-full sm:w-64 px-4 py-2 rounded-lg bg-white/10 border border-white/20 text-white placeholder-white/60 focus:outline-none focus:ring-2 focus:ring-white/30"
-    />
-    </div>
+ <div className="flex flex-col sm:flex-row gap-2">
+  <input
+    type="email"
+    placeholder="Your email"
+    className="w-full sm:w-48 px-4 py-2 rounded-lg bg-white/10 border border-white/20 text-white placeholder-white/60 focus:outline-none focus:ring-2 focus:ring-white/30"
+  />
+</div>
+
   <br></br>
     <button className="px-6 py-2 bg-white text-primary rounded-lg font-medium hover:bg-white/90 transition-colors duration-200">
       Subscribe
@@ -114,7 +115,7 @@ const Footer = () => {
         <div className="border-t border-white/20 mt-12 pt-8">
           <div className="flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
             <p className="text-white/80 text-sm">
-              © 2024 HopeForward. All rights reserved. Built with ❤️ for positive change.
+              © 2025 HopeForward. All rights reserved. Built with ❤️ for positive change.
             </p>
             <div className="flex space-x-6 text-sm">
               <a href="#terms" className="text-white/80 hover:text-white transition-colors duration-200">
