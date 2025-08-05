@@ -1,5 +1,10 @@
 # Welcome to your Lovable project
 
+## 🚀 Hosted Page
+
+You can view the live NGO site here:  
+👉 [https://heartfelt-impact-page.lovable.app](https://heartfelt-impact-page.lovable.app)
+
 ## Project info
 
 **URL**: https://lovable.dev/projects/0257ecdf-691d-43fb-9782-0177687ecc9b
