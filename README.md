@@ -48,7 +48,7 @@ npm run dev
 
 - Navigate to the file you want to change
 
-- Click the ✏️** Edit** button
+- Click the ✏️**Edit** button
 
 - Make your changes and commit
 
