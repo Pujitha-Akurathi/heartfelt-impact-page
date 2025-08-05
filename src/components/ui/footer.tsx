@@ -34,15 +34,15 @@ const Footer = () => {
             <div className="space-y-3">
               <div className="flex items-center space-x-3">
                 <Mail className="w-5 h-5 text-white/80" />
-                <span className="text-white/90">info@hopeforward.org</span>
+                <span className="text-white/90">hello@hopeforward.org</span>
               </div>
               <div className="flex items-center space-x-3">
                 <Phone className="w-5 h-5 text-white/80" />
-                <span className="text-white/90">+1 (555) 123-4567</span>
+                <span className="text-white/90">+91 98765 43210</span>
               </div>
               <div className="flex items-center space-x-3">
                 <MapPin className="w-5 h-5 text-white/80" />
-                <span className="text-white/90">123 Hope Street, Community City, CC 12345</span>
+                <span className="text-white/90">Hope Forward Foundation, 27 Unity Lane, Hyderabad, India</span>
               </div>
             </div>
           </div>
