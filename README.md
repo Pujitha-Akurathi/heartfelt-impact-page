@@ -1,78 +1,94 @@
-# Welcome to your Lovable project
+# ❤️ Welcome to Heartfelt Impact – NGO Website
+
+A modern, responsive NGO website built with React, Tailwind CSS, and ShadCN UI – supporting community outreach and volunteer engagement.
+
+---
 
 ## 🚀 Hosted Page
 
-You can view the live NGO site here:  
+View the live NGO site here:  
 👉 [https://heartfelt-impact-page.lovable.app](https://heartfelt-impact-page.lovable.app)
 
-## Project info
+---
 
-**URL**: https://lovable.dev/projects/0257ecdf-691d-43fb-9782-0177687ecc9b
+## 📁 Project Info
 
-## How can I edit this code?
+🔗 **Lovable Project URL:**  
+[https://lovable.dev/projects/0257ecdf-691d-43fb-9782-0177687ecc9b](https://lovable.dev/projects/0257ecdf-691d-43fb-9782-0177687ecc9b)
 
-There are several ways of editing your application.
+---
 
-**Use Lovable**
+## ✏️ How to Edit This Project
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/0257ecdf-691d-43fb-9782-0177687ecc9b) and start prompting.
+### 1. Use Lovable (No setup required)
 
-Changes made via Lovable will be committed automatically to this repo.
+Visit the [Lovable Project](https://lovable.dev/projects/0257ecdf-691d-43fb-9782-0177687ecc9b) and start prompting.  
+All changes will automatically commit to this GitHub repo.
 
-**Use your preferred IDE**
+### 2. Use Your Preferred IDE (Locally)
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+> Make sure you have Node.js and npm installed. We recommend using [nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
-Follow these steps:
-
+#### Steps:
 ```sh
-# Step 1: Clone the repository using the project's Git URL.
+# Step 1: Clone the repo
 git clone <YOUR_GIT_URL>
 
-# Step 2: Navigate to the project directory.
+# Step 2: Navigate to the project folder
 cd <YOUR_PROJECT_NAME>
 
-# Step 3: Install the necessary dependencies.
-npm i
+# Step 3: Install dependencies
+npm install
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+# Step 4: Start the development server
 npm run dev
 ```
 
-**Edit a file directly in GitHub**
+### 3. Edit Directly on GitHub
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+- Navigate to the file you want to change
 
-**Use GitHub Codespaces**
+- Click the ✏️** Edit** button
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+- Make your changes and commit
 
-## What technologies are used for this project?
+### 4. Use GitHub Codespaces
 
-This project is built with:
+- Go to the main page of your repo
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+- Click the green **Code** button → Codespaces
 
-## How can I deploy this project?
+- Click **New Codespace**
 
-Simply open [Lovable](https://lovable.dev/projects/0257ecdf-691d-43fb-9782-0177687ecc9b) and click on Share -> Publish.
+- Edit files directly in the Codespace, then commit and push your changes
 
-## Can I connect a custom domain to my Lovable project?
 
-Yes, you can!
+ 🧰 Tech Stack
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+- ✅ Vite
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+- ✅ TypeScript
+
+- ✅ React
+
+- ✅ Tailwind CSS
+
+- ✅ ShadCN UI
+
+🌍 Deployment
+
+To deploy:
+
+- Open the Lovable Project
+
+- Click on Share → Publish
+
+🌐 Custom Domain (Optional)
+To connect a custom domain:
+
+- Navigate to Project > Settings > Domains
+
+- Click Connect Domain
+
+🔗 Learn more: [Setting up a custom domain](https://docs.lovable.dev/introduction/welcome#step-by-step-guide)
+
