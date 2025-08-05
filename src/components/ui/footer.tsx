@@ -112,7 +112,7 @@ const Footer = () => {
         </div>
 
         {/* Bottom Bar */}
-        <div className="border-t border-white/20 mt-16 pt-8">
+        <div className="border-t border-white/20 mt-18 pt-8">
           <div className="flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
             <p className="text-white/80 text-sm">
               © 2025 HopeForward. All rights reserved. Built with ❤️ for positive change.
